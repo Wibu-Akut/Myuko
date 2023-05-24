@@ -61,6 +61,7 @@
     "scrape-primbon": "^1.1.0",
     "util": "^0.12.4",
     "yargs": "^17.2.1"
+    "yt-search": "latest"
 
   },
   "directories": {
